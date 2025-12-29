@@ -1,0 +1,152 @@
+[
+  {
+    "id": 101,
+    "category": "Вывоз мусора",
+    "address": "пр. Кабанбай батыра, 15",
+    "status": "В работе",
+    "created_at": "2025-11-01",
+    "description": "Не вывезен мусор с контейнерной площадки",
+    "latitude": 51.1282,
+    "longitude": 71.4304
+  },
+  {
+    "id": 102,
+    "category": "Освещение улиц",
+    "address": "ул. Кенесары, 42",
+    "status": "Решено",
+    "created_at": "2025-10-28",
+    "description": "Не горит фонарь во дворе",
+    "latitude": 51.1356,
+    "longitude": 71.4189
+  },
+  {
+    "id": 103,
+    "category": "Дорожное покрытие",
+    "address": "ул. Сарайшык, 8",
+    "status": "В работе",
+    "created_at": "2025-11-05",
+    "description": "Яма на дороге",
+    "latitude": 51.1250,
+    "longitude": 71.4350
+  },
+  {
+    "id": 104,
+    "category": "Озеленение",
+    "address": "ул. Жумабаева, 23",
+    "status": "Отклонено",
+    "created_at": "2025-10-25",
+    "description": "Посадить деревья",
+    "latitude": 51.1200,
+    "longitude": 71.4150
+  },
+  {
+    "id": 105,
+    "category": "Вывоз мусора",
+    "address": "пр. Туран, 67",
+    "status": "Решено",
+    "created_at": "2025-10-30",
+    "description": "Переполненные контейнеры",
+    "latitude": 51.1380,
+    "longitude": 71.4250
+  },
+  {
+    "id": 106,
+    "category": "Освещение улиц",
+    "address": "ул. Улы дала, 34",
+    "status": "В работе",
+    "created_at": "2025-11-03",
+    "description": "Мигающий фонарь",
+    "latitude": 51.1420,
+    "longitude": 71.4320
+  },
+  {
+    "id": 107,
+    "category": "Водоснабжение",
+    "address": "ул. Бейбитшилик, 12",
+    "status": "В работе",
+    "created_at": "2025-11-06",
+    "description": "Протечка трубы",
+    "latitude": 51.1320,
+    "longitude": 71.4180
+  },
+  {
+    "id": 108,
+    "category": "Общественный транспорт",
+    "address": "пр. Республики, 56",
+    "status": "Решено",
+    "created_at": "2025-10-27",
+    "description": "Нет остановочного павильона",
+    "latitude": 51.1480,
+    "longitude": 71.4400
+  },
+  {
+    "id": 109,
+    "category": "Благоустройство",
+    "address": "ул. Мангилик ел, 89",
+    "status": "В работе",
+    "created_at": "2025-11-04",
+    "description": "Разбитая скамейка",
+    "latitude": 51.1150,
+    "longitude": 71.4100
+  },
+  {
+    "id": 110,
+    "category": "Шумовое загрязнение",
+    "address": "ул. Достык, 33",
+    "status": "Отклонено",
+    "created_at": "2025-10-29",
+    "description": "Шум ночью",
+    "latitude": 51.1300,
+    "longitude": 71.4450
+  },
+  {
+    "id": 111,
+    "category": "Дорожное покрытие",
+    "address": "ул. Кунаева, 21",
+    "status": "Решено",
+    "created_at": "2025-10-26",
+    "description": "Трещины на тротуаре",
+    "latitude": 51.1100,
+    "longitude": 71.4050
+  },
+  {
+    "id": 112,
+    "category": "Вывоз мусора",
+    "address": "пр. Абылай хана, 45",
+    "status": "В работе",
+    "created_at": "2025-11-02",
+    "description": "Свалка мусора",
+    "latitude": 51.1450,
+    "longitude": 71.4500
+  },
+  {
+    "id": 113,
+    "category": "Уборка снега",
+    "address": "ул. Бокейхана, 18",
+    "status": "В работе",
+    "created_at": "2025-11-07",
+    "description": "Не убран снег",
+    "latitude": 51.1285,
+    "longitude": 71.4280
+  },
+  {
+    "id": 114,
+    "category": "Общественный транспорт",
+    "address": "пр. Победы, 31",
+    "status": "Решено",
+    "created_at": "2025-10-24",
+    "description": "Сломанная лавочка",
+    "latitude": 51.1220,
+    "longitude": 71.4200
+  },
+  {
+    "id": 115,
+    "category": "Освещение улиц",
+    "address": "ул. Габдуллина, 7",
+    "status": "В работе",
+    "created_at": "2025-11-08",
+    "description": "Нет освещения",
+    "latitude": 51.1400,
+    "longitude": 71.4380
+  }
+]
